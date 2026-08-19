@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="220" viewBox="0 0 860 220" role="img" aria-label="JANUS — Journaled Application Network Usage Scanner">
+  <rect width="860" height="220" rx="10" fill="#ffffff"/>
+  <rect x="0" y="0" width="6" height="220" rx="3" fill="#cf222e"/>
+  <g fill="#1f2328"><g transform="translate(60,46)"><rect x="24" y="0" width="16" height="44"/><rect x="0" y="44" width="40" height="12"/><rect x="0" y="30" width="12" height="26"/></g><g transform="translate(114,46)"><rect x="0" y="0" width="40" height="12"/><rect x="0" y="12" width="12" height="44"/><rect x="28" y="12" width="12" height="44"/><rect x="12" y="24" width="16" height="12"/></g><g transform="translate(168,46)"><rect x="0" y="0" width="12" height="56"/><rect x="28" y="0" width="12" height="56"/><polygon points="12,0 24,0 40,40 40,56 28,56 12,16"/></g><g transform="translate(222,46)"><rect x="0" y="0" width="12" height="44"/><rect x="28" y="0" width="12" height="44"/><rect x="0" y="44" width="40" height="12"/></g><g transform="translate(276,46)"><rect x="0" y="0" width="40" height="12"/><rect x="0" y="12" width="12" height="16"/><rect x="0" y="22" width="40" height="12"/><rect x="28" y="28" width="12" height="16"/><rect x="0" y="44" width="40" height="12"/></g></g>
+  <g fill="#cf222e" opacity="0.9">
+    <rect x="360" y="60" width="46" height="6"/><polygon points="406,54 424,63 406,72"/>
+  </g>
+  <g fill="#59636e" opacity="0.55">
+    <rect x="378" y="88" width="46" height="6"/><polygon points="378,82 360,91 378,100"/>
+  </g>
+  <rect x="60" y="130" width="740" height="1" fill="#d1d9e0"/>
+  <text x="60" y="163" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#59636e" letter-spacing="0.4">Journaled Application Network Usage Scanner</text>
+  <text x="60" y="190" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#818b98" letter-spacing="0.4">SRUM forensics for hosts without Sysmon or EDR  ·  by Tracewarden</text>
+</svg>
