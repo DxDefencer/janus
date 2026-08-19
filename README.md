@@ -1,12 +1,9 @@
-     ██╗ █████╗ ███╗   ██╗██╗   ██╗███████╗
-     ██║██╔══██╗████╗  ██║██║   ██║██╔════╝
-     ██║███████║██╔██╗ ██║██║   ██║███████╗
-██   ██║██╔══██║██║╚██╗██║██║   ██║╚════██║
-╚█████╔╝██║  ██║██║ ╚████║╚██████╔╝███████║
- ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
-  Journaled Application Network Usage Scanner
-  ·  by Tracewarden
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/janus-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/janus-banner-light.svg">
+  <img alt="JANUS — Journaled Application Network Usage Scanner" src="assets/janus-banner-light.svg" width="860">
+</picture>
+
 # JANUS — руководство
 
 **J**ournaled **A**pplication **N**etwork **U**sage **S**canner · by Tracewarden
